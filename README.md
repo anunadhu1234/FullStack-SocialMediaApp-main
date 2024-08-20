@@ -1,1 +1,1 @@
-# Sociopedia - Social Media App
+# Snapgram - Social Media App
